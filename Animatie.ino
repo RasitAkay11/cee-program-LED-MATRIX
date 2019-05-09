@@ -1,11 +1,11 @@
 // sources to create this code :
 // https://create.arduino.cc/projecthub/SAnwandter1/programming-8x8-led-matrix-23475a
 // https://www.instructables.com/id/Scrolling-Text-on-a-8x8-LED-Matrix-Using-an-Arduin/
-
+deerref
 
 //Definiëren van de uitganspinnen
 const int shiftClockPin = 3;  //SH
-const int latchClockPin = 4;  //ST
+const int latchClockPin = 4;  //ST 
 const int serialInputPin = 5; //DS
 
 //R1 R2 K2 R8 K4 R3 R5 K1 K5 K3 K6 R4 K8 R6 R7 K7
